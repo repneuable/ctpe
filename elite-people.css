@@ -1,0 +1,16 @@
+/*Book for Course icon*/
+.ProductIcon__LargeCircle--course{
+  background: #466069;
+}
+
+.product-tile{
+background-color: rgba(128, 176, 166, 0.2196078431372549);
+border: 1px dotted #006747;
+}
+
+.product-account-image-wrapper {
+  background-color: transparent;
+}
+.product-tile .product-footer{
+  border-top: 1px solid #006747;
+}
