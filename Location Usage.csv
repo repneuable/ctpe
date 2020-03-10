@@ -1,0 +1,393 @@
+﻿id,name,section_start_at,section_end_at,location_id,total_students
+263,SHRM CP/SCP - USF Fall 2019 (Online),NaT,NaT,,7
+294,Hospitality Leadership Program - Template,2020-01-27 05:00:00,2020-05-22 04:00:00,,1
+433,Hospitality Leadership Program - Sample Lesson,2020-01-27 05:00:00,2020-05-22 04:00:00,,0
+442,Paralegal Certificate Materials (for class starting January 21st) [1 of 2],2020-01-21 05:00:00,2020-04-16 04:00:00,1of2,1
+299,Lean Six Sigma Green Belt Certification (Payment 1 of 2),2019-08-10 04:00:00,2019-10-05 04:00:00,1of2,0
+336,Paralegal Certificate Materials [1 of 2] (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,1of2,0
+334,Paralegal Certificate Online Payment Plan [1 of 2] (for class starting August 15th),2019-08-15 04:00:00,NaT,1of2,1
+457,Paralegal Certificate Online Payment Plan [1 of 2] (for class starting February 15th),2020-02-15 05:00:00,NaT,1of2,0
+474,ACT Blitz Live-Online (Payment 1 of 2),2020-02-09 05:00:00,2020-03-29 04:00:00,1of2,1
+309,Paralegal Certificate Payment Plan [1 of 3] (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,1of3,0
+241,Paralegal Certificate Online Payment Plan [1 of 3] (for class starting May 15th),2019-05-15 04:00:00,NaT,1of3,0
+179,Paralegal Certificate Payment Plan [1 of 4] (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,1of4,0
+347,Paralegal Certificate Online Payment Plan [1 of 4] (for class starting October 15th),2019-10-15 04:00:00,NaT,1of4,0
+351,Paralegal Certificate Online Payment Plan [1 of 4] (for class starting September 15th),2019-09-15 04:00:00,NaT,1of4,1
+343,Paralegal Certificate Payment Plan [1 of 4] (for class starting January 21st),2020-01-21 05:00:00,2020-04-16 04:00:00,1of4,3
+425,Paralegal Certificate Online Payment Plan [1 of 4] (for class starting March 15th),2020-03-15 04:00:00,NaT,1of4,1
+403,Paralegal Certificate Online Payment Plan [1 of 4] (for class starting November 15th),2019-11-15 05:00:00,NaT,1of4,1
+485,Paralegal Certificate Materials (for class starting January 21st) [1 of 4],2020-01-21 05:00:00,2020-04-16 04:00:00,1of4,2
+489,Paralegal Certificate Payment Plan [1 of 4] (for class starting May 12th),2020-05-12 04:00:00,2020-08-06 04:00:00,1of4,2
+327,Paralegal Certificate Payment Plan [2.25 of 3] (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,2.25of3,0
+326,Paralegal Certificate Payment Plan [2.75 of 3] (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,2.75of3,0
+337,Paralegal Certificate Materials [2 of 2] (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,2of2,0
+335,Paralegal Certificate Online Payment Plan [2 of 2] (for class starting August 15th),2019-08-15 04:00:00,NaT,2of2,1
+300,Lean Six Sigma Green Belt Certification (Payment 2 of 2),2019-08-10 04:00:00,2019-10-05 04:00:00,2of2,0
+443,Paralegal Certificate Materials (for class starting January 21st) [2 of 2],2020-01-21 05:00:00,2020-04-16 04:00:00,2of2,1
+475,ACT Blitz Live-Online (Payment 2 of 2),2020-02-09 05:00:00,2020-03-29 04:00:00,2of2,1
+458,Paralegal Certificate Online Payment Plan [2 of 2] (for class starting February 15th),2020-02-15 05:00:00,NaT,2of2,0
+310,Paralegal Certificate Payment Plan [2 of 3] (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,2of3,0
+242,Paralegal Certificate Online Payment Plan [2 of 3] (for class starting May 15th),2019-05-15 04:00:00,NaT,2of3,0
+180,Paralegal Certificate Payment Plan [2 of 4] (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,2of4,0
+348,Paralegal Certificate Online Payment Plan [2 of 4] (for class starting October 15th),2019-10-15 04:00:00,NaT,2of4,0
+352,Paralegal Certificate Online Payment Plan [2 of 4] (for class starting September 15th),2019-09-15 04:00:00,NaT,2of4,1
+344,Paralegal Certificate Payment Plan [2 of 4] (for class starting January 21st),2020-01-21 05:00:00,2020-04-16 04:00:00,2of4,3
+426,Paralegal Certificate Online Payment Plan [2 of 4] (for class starting March 15th),2020-03-15 04:00:00,NaT,2of4,1
+404,Paralegal Certificate Online Payment Plan [2 of 4] (for class starting November 15th),2019-11-15 05:00:00,NaT,2of4,1
+486,Paralegal Certificate Materials (for class starting January 21st) [2 of 4],2020-01-21 05:00:00,2020-04-16 04:00:00,2of4,0
+490,Paralegal Certificate Payment Plan [2 of 4] (for class starting May 12th),2020-05-12 04:00:00,2020-08-06 04:00:00,2of4,2
+311,Paralegal Certificate Payment Plan [3 of 3] (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,3of3,0
+243,Paralegal Certificate Online Payment Plan [3 of 3] (for class starting May 15th),2019-05-15 04:00:00,NaT,3of3,0
+181,Paralegal Certificate Payment Plan [3 of 4] (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,3of4,0
+345,Paralegal Certificate Payment Plan [3 of 4] (for class starting January 21st),2020-01-21 05:00:00,2020-04-16 04:00:00,3of4,3
+353,Paralegal Certificate Online Payment Plan [3 of 4] (for class starting September 15th),2019-09-15 04:00:00,NaT,3of4,1
+349,Paralegal Certificate Online Payment Plan [3 of 4] (for class starting October 15th),2019-10-15 04:00:00,NaT,3of4,0
+405,Paralegal Certificate Online Payment Plan [3 of 4] (for class starting November 15th),2019-11-15 05:00:00,NaT,3of4,1
+427,Paralegal Certificate Online Payment Plan [3 of 4] (for class starting March 15th),2020-03-15 04:00:00,NaT,3of4,1
+491,Paralegal Certificate Payment Plan [3 of 4] (for class starting May 12th),2020-05-12 04:00:00,2020-08-06 04:00:00,3of4,1
+487,Paralegal Certificate Materials (for class starting January 21st) [3 of 4],2020-01-21 05:00:00,2020-04-16 04:00:00,3of4,0
+488,Paralegal Certificate Materials (for class starting January 21st) [4 of 4],2020-01-21 05:00:00,2020-04-16 04:00:00,4of4,0
+492,Paralegal Certificate Payment Plan [4 of 4] (for class starting May 12th),2020-05-12 04:00:00,2020-08-06 04:00:00,4of4,1
+428,Paralegal Certificate Online Payment Plan [4 of 4] (for class starting March 15th),2020-03-15 04:00:00,NaT,4of4,1
+406,Paralegal Certificate Online Payment Plan [4 of 4] (for class starting November 15th),2019-11-15 05:00:00,NaT,4of4,1
+350,Paralegal Certificate Online Payment Plan [4 of 4] (for class starting October 15th),2019-10-15 04:00:00,NaT,4of4,0
+354,Paralegal Certificate Online Payment Plan [4 of 4] (for class starting September 15th),2019-09-15 04:00:00,NaT,4of4,1
+346,Paralegal Certificate Payment Plan [4 of 4] (for class starting January 21st),2020-01-21 05:00:00,2020-04-16 04:00:00,4of4,3
+289,Paralegal Certificate Payment Plan [4 of 4] (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,4of4,0
+380,Paralegal Certificate,NaT,NaT,MiamiTBA,0
+290,Paralegal Certificate Materials (for class starting August 27th),2019-08-27 04:00:00,2019-11-21 05:00:00,NONE,15
+213,Location Placeholder,NaT,NaT,NONE,1
+237,Paralegal Certificate Materials (for class starting January 15th),2019-01-15 05:00:00,2019-05-14 04:00:00,NONE,16
+238,Paralegal Certificate Materials (for class starting May 28th),2019-05-28 04:00:00,2019-08-15 04:00:00,NONE,7
+508,Dummy Paralegal Certificate On-Campus,NaT,NaT,NONE,0
+464,Leading Multiple Generations in the Workforce,NaT,NaT,NONE,0
+440,Paralegal Certificate Materials (for class starting January 21st),2020-01-21 05:00:00,2020-04-16 04:00:00,NONE,13
+484,(EG2IT) Cybersecurity Essentials,NaT,2020-02-28 05:00:00,ONL,8
+502,(EG2IT) Fundamentos de Ciberseguridad,NaT,NaT,ONL,1
+495,(EG2IT) Cybersecurity Essentials Demo,2020-01-01 05:00:00,2020-12-31 05:00:00,ONL,1
+496,GRE Test Prep Live-Online,2020-03-18 04:00:00,2020-04-13 04:00:00,Online,1
+497,GRE Test Prep Live-Online,2020-03-05 05:00:00,2020-03-31 04:00:00,Online,2
+499,Leading Multiple Generations in the Workforce,2020-07-01 04:00:00,2020-07-29 04:00:00,Online,1
+501,GMAT Prep Live-Online,2020-03-19 04:00:00,2020-04-14 04:00:00,Online,4
+510,Paralegal Certificate Online,2020-05-15 04:00:00,NaT,Online,0
+511,SAT Blitz Live-Online (7PM - 9PM),2020-05-07 04:00:00,2020-06-02 04:00:00,Online,0
+512,SAT Blitz Live-Online (10PM - 12AM),2020-05-07 04:00:00,2020-06-02 04:00:00,Online,0
+521,LSAT Test Prep Live-Online,2020-03-19 04:00:00,2020-04-21 04:00:00,Online,0
+522,LSAT Test Prep Live-Online,2020-03-31 04:00:00,2020-04-23 04:00:00,Online,0
+523,LSAT Test Prep Live-Online,2020-04-29 04:00:00,2020-06-03 04:00:00,Online,0
+524,LSAT Test Prep Live-Online,2020-05-05 04:00:00,2020-05-28 04:00:00,Online,0
+525,LSAT Test Prep Live-Online,2020-06-08 04:00:00,2020-07-08 04:00:00,Online,0
+526,LSAT Test Prep Live-Online,2020-06-09 04:00:00,2020-07-09 04:00:00,Online,0
+527,LSAT Test Prep Live-Online,2020-06-14 04:00:00,2020-08-23 04:00:00,Online,0
+528,LSAT Test Prep Live-Online,2020-07-22 04:00:00,2020-08-24 04:00:00,Online,0
+529,Foundations of Modern Project Management,2020-06-16 04:00:00,2020-07-16 04:00:00,Online,1
+481,SHRM CP/SCP - USF Spring 2020 (Online),NaT,NaT,Online,6
+465,Paralegal Certificate Online,2020-04-15 04:00:00,NaT,Online,0
+459,Foundational Elements of Project Management,2020-02-25 05:00:00,2020-03-26 04:00:00,Online,16
+460,LSAT Test Prep Live-Online,2020-02-19 05:00:00,2020-03-23 04:00:00,Online,1
+461,Leading Multiple Generations in the Workforce,2020-04-27 04:00:00,2020-05-20 04:00:00,Online,0
+462,Leading Projects through Execution,2020-03-31 04:00:00,2020-04-30 04:00:00,Online,5
+463,Agile Project Management,2020-05-05 04:00:00,2020-06-04 04:00:00,Online,2
+439,LSAT Test Prep Live-Online,2020-01-16 05:00:00,2020-02-18 05:00:00,Online,2
+239,Paralegal Certificate Online,2019-02-15 05:00:00,NaT,Online,0
+240,Paralegal Certificate Online,2019-03-15 04:00:00,NaT,Online,2
+232,Paralegal Certificate Online,2019-01-15 05:00:00,NaT,Online,3
+214,Paralegal Certificate Online,2019-04-15 04:00:00,NaT,Online,0
+215,Paralegal Certificate Online,2019-05-15 04:00:00,NaT,Online,0
+216,Paralegal Certificate Online,2019-06-15 04:00:00,NaT,Online,1
+217,Paralegal Certificate Online,2019-07-15 04:00:00,NaT,Online,0
+218,Paralegal Certificate Online,2019-09-15 04:00:00,NaT,Online,2
+219,Paralegal Certificate Online,2019-10-15 04:00:00,NaT,Online,1
+164,LSAT Test Prep Live-Online (verified on 7/16/19),2019-06-03 04:00:00,2019-07-10 04:00:00,Online,2
+165,LSAT Test Prep Live-Online (verified on 7/16/19),2019-06-04 04:00:00,2019-07-11 04:00:00,Online,0
+166,LSAT Test Prep Live-Online,2019-08-12 04:00:00,2019-09-16 04:00:00,Online,0
+167,LSAT Test Prep Live-Online,2019-08-15 04:00:00,2019-09-17 04:00:00,Online,2
+251,Paralegal Certificate Online (verified on 6/28/19),2018-05-08 04:00:00,2018-11-08 05:00:00,Online,2
+252,Paralegal Certificate Online (verified on 5/23/19),2018-11-15 05:00:00,2018-11-15 05:00:00,Online,1
+253,Paralegal Certificate Online (verified on 6/27/19),2018-12-15 05:00:00,2018-12-15 05:00:00,Online,1
+283,(CAE) Organization Development and Leadership Capstone,2019-06-26 14:30:00,2019-06-26 15:15:00,Online,8
+105,ACT Blitz Live-Online (verified on 6/4/19),2019-05-09 04:00:00,2019-06-04 04:00:00,Online,0
+106,ACT Blitz Live-Online (verified on 7/16/19),2019-06-11 04:00:00,2019-07-09 04:00:00,Online,0
+107,ACT Blitz Live-Online (verified on 9/12/19),2019-08-08 04:00:00,2019-09-03 04:00:00,Online,2
+108,ACT Blitz Live-Online,2019-09-26 04:00:00,2019-10-22 04:00:00,Online,2
+109,ACT Blitz Live-Online,2019-11-05 05:00:00,2019-12-03 05:00:00,Online,0
+112,GMAT Prep Live-Online (verified on 4/16/19),2019-03-21 04:00:00,2019-04-16 04:00:00,Online,2
+115,GRE Test Prep Live-Online (verified on 4/15/19),2019-03-20 04:00:00,2019-04-15 04:00:00,Online,12
+116,GRE Test Prep Live-Online (verified on 5/13/19),2019-04-17 04:00:00,2019-05-13 04:00:00,Online,2
+117,GRE Test Prep Live-Online (verified on 5/30/19),2019-05-07 04:00:00,2019-05-30 04:00:00,Online,9
+120,LSAT Test Prep Live-Online (verified on 5/29/19),2019-04-24 04:00:00,2019-05-29 04:00:00,Online,1
+121,LSAT Test Prep Live-Online (verified on 5/30/19),2019-05-07 04:00:00,2019-05-30 04:00:00,Online,1
+123,SAT Blitz Live-Online (verified on 4/28/19),2019-03-03 05:00:00,2019-04-28 04:00:00,Online,2
+124,SAT Blitz Live-Online (verified on 5/28/19),2019-05-02 04:00:00,2019-05-28 04:00:00,Online,1
+125,SAT Blitz Live-Online (verified on 8/20/19),2019-07-24 04:00:00,2019-08-19 04:00:00,Online,7
+126,SAT Blitz Live-Online (verified on 10/4/19),2019-09-04 04:00:00,2019-09-30 04:00:00,Online,2
+127,SAT Blitz Live-Online,2019-10-03 04:00:00,2019-10-29 04:00:00,Online,3
+128,SAT Blitz Live-Online,2019-11-04 05:00:00,2019-12-02 05:00:00,Online,0
+92,Organization Development and Leadership Capstone Course (Independent Study),NaT,NaT,Online,3
+93,Paralegal Certificate Online,2019-08-15 04:00:00,NaT,Online,3
+151,GMAT Prep Live-Online (verified on 7/3/19),2019-06-04 04:00:00,2019-06-27 04:00:00,Online,1
+152,GMAT Prep Live-Online (verified on 8/7/19),2019-07-10 04:00:00,2019-08-05 04:00:00,Online,7
+153,GRE Test Prep Live-Online (verified on 6/26/19),2019-06-03 04:00:00,2019-06-26 04:00:00,Online,1
+154,GRE Test Prep Live-Online (verified on 7/3/19),2019-06-04 04:00:00,2019-06-27 04:00:00,Online,0
+155,GRE Test Prep Live-Online (verified on 7/22/19),2019-06-19 04:00:00,2019-07-17 04:00:00,Online,3
+156,GRE Test Prep Live-Online (verified on 8/12/19),2019-07-16 04:00:00,2019-08-08 04:00:00,Online,6
+157,GRE Test Prep Live-Online (verified on 9/12/19),2019-07-22 04:00:00,2019-08-14 04:00:00,Online,3
+158,GRE Test Prep Live-Online (verified on 9/12/19),2019-08-13 04:00:00,2019-09-05 04:00:00,Online,7
+312,LSAT Test Prep Live-Online,2019-09-18 04:00:00,2019-10-21 04:00:00,Online,3
+313,LSAT Test Prep Live-Online,2019-09-19 04:00:00,2019-10-22 04:00:00,Online,0
+314,LSAT Test Prep Live-Online,2019-10-16 04:00:00,2019-11-18 05:00:00,Online,2
+315,LSAT Test Prep Live-Online,2019-10-24 04:00:00,2019-11-19 05:00:00,Online,2
+316,GRE Test Prep Live-Online (verified on 10/4/19),2019-09-10 04:00:00,2019-10-03 04:00:00,Online,2
+317,GRE Test Prep Live-Online (verified 10/10/19),2019-09-11 04:00:00,2019-10-07 04:00:00,Online,0
+318,GRE Test Prep Live-Online,2019-09-24 04:00:00,2019-10-17 04:00:00,Online,2
+319,GRE Test Prep Live-Online,2019-10-08 04:00:00,2019-11-05 05:00:00,Online,3
+320,GRE Test Prep Live-Online,2019-10-23 04:00:00,2019-11-20 05:00:00,Online,2
+321,GRE Test Prep Live-Online,2019-11-19 05:00:00,2019-12-19 05:00:00,Online,8
+322,GRE Test Prep Live-Online,2019-12-09 05:00:00,2019-12-19 05:00:00,Online,10
+323,GMAT Prep Live-Online (verified on 10/10/19),2019-09-12 04:00:00,2019-10-08 04:00:00,Online,0
+324,GMAT Prep Live-Online,2019-09-25 04:00:00,2019-10-23 04:00:00,Online,1
+325,GMAT Prep Live-Online,2019-10-10 04:00:00,2019-11-07 05:00:00,Online,6
+338,Hospitality Leadership Program,2020-01-27 05:00:00,2020-05-22 04:00:00,Online,8
+339,Hospitality Leadership Program - 1 Membership,2020-01-27 05:00:00,2020-05-22 04:00:00,Online,0
+340,Hospitality Leadership Program - 2 Memberships,2020-01-27 05:00:00,2020-05-22 04:00:00,Online,0
+341,Kaltura Template,NaT,NaT,Online,0
+355,Paralegal Certificate Online,2019-12-15 05:00:00,NaT,Online,0
+333,Paralegal Certificate Online,2019-11-15 05:00:00,NaT,Online,1
+368,LSAT Test Prep Live-Online,2019-12-03 05:00:00,2020-01-09 05:00:00,Online,2
+369,LSAT Test Prep Live-Online,2019-12-12 05:00:00,2020-01-09 05:00:00,Online,5
+370,Paralegal Certificate Online,2020-01-15 05:00:00,NaT,Online,2
+391,ACT Blitz Live-Online,2020-01-09 05:00:00,2020-02-04 05:00:00,Online,1
+392,ACT Blitz Live-Online,2020-02-09 05:00:00,2020-03-29 04:00:00,Online,4
+393,GMAT Prep Live-Online,2020-01-23 05:00:00,2020-02-18 05:00:00,Online,7
+394,GMAT Prep Live-Online,2020-02-20 05:00:00,2020-03-17 04:00:00,Online,1
+399,SAT Blitz Live-Online,2020-02-13 05:00:00,2020-03-10 04:00:00,Online,4
+400,SAT Blitz Live-Online,2020-02-13 05:00:00,2020-03-10 04:00:00,Online,2
+401,SAT Blitz Live-Online,2020-03-01 05:00:00,2020-04-26 04:00:00,Online,1
+411,Paralegal Certificate Online,2020-02-15 05:00:00,NaT,Online,1
+429,GRE Test Prep Live-Online,2020-01-29 05:00:00,2020-02-26 05:00:00,Online,4
+430,LSAT Test Prep Live-Online,2020-01-13 05:00:00,2020-02-19 05:00:00,Online,2
+432,GRE Test Prep Live-Online,2020-02-06 05:00:00,2020-03-03 05:00:00,Online,3
+424,Paralegal Certificate Online,2020-03-15 04:00:00,NaT,Online,2
+367,(WellCare) Business Analysis,2019-07-16 04:00:00,2019-10-01 04:00:00,Onsite,26
+444,(WellCare) Lean Six Sigma Green Belt Certification,2020-01-14 05:00:00,2020-03-12 04:00:00,Onsite,23
+445,(WellCare) Lean Six Sigma Green Belt Certification,2020-01-27 05:00:00,2020-03-23 04:00:00,Onsite,28
+362,(WellCare) Lean Six Sigma Green Belt Certification,2019-10-15 04:00:00,2019-12-12 05:00:00,Onsite,25
+363,(WellCare) Business Analysis,2019-10-08 04:00:00,2019-12-17 05:00:00,Onsite,22
+365,(WellCare) Lean Six Sigma Green Belt Certification,2019-08-01 04:00:00,2019-10-08 04:00:00,Onsite,26
+378,(MacDill) HR for the Non-HR Manager,2019-10-28 04:00:00,2019-10-30 04:00:00,Onsite,10
+329,(Amazon) Lean Six Sigma Green Belt Certification,2019-08-14 04:00:00,2019-11-06 05:00:00,Onsite,18
+330,(Amazon) Lean Six Sigma Black Belt Certification,2019-08-14 04:00:00,2019-11-06 05:00:00,Onsite,11
+331,(Amazon) Lean Six Sigma Green Belt Certification,2019-08-28 04:00:00,2019-10-28 04:00:00,Onsite,12
+332,(Amazon) Lean Six Sigma Green Belt Certification,2019-08-29 04:00:00,2019-10-31 04:00:00,Onsite,7
+291,(CITI) Global Banking Certificate (verified on 8/7/18),2019-04-02 15:00:00,2019-04-03 19:00:00,Onsite,35
+292,(HCPS) Lean Six Sigma Green Belt Certification,2019-07-08 04:00:00,2019-09-06 04:00:00,Onsite,10
+296,(BMS) Introduction to Spanish for Business,2019-07-08 04:00:00,2019-08-26 04:00:00,Onsite,24
+297,(BMS) Basic Spanish for Business,2019-07-08 04:00:00,2019-08-26 04:00:00,Onsite,15
+254,(CAE) Change Management (verified on 6/27/19),2019-06-13 04:00:00,2019-06-13 04:00:00,Onsite,13
+255,(CAE) Creating an Engaged Workforce,2019-07-11 04:00:00,2019-07-11 04:00:00,Onsite,13
+256,(CAE) Presenting Powerfully,2019-08-13 04:00:00,2019-08-13 04:00:00,Onsite,13
+246,(CAE) Leading with Emotional Intelligence (verified on 6/12/19),2019-04-16 12:30:00,2019-04-16 19:30:00,Onsite,13
+247,(CAE) Effective Communication for Today's Leaders (verified on 6/12/19),2019-05-09 12:30:00,2019-05-09 19:30:00,Onsite,13
+233,(Amazon) Lean Six Sigma Green Belt Certification,2019-01-17 05:00:00,2019-07-30 04:00:00,Onsite,27
+234,(MacDill) Lean Six Sigma Green Belt Certification,2019-03-25 04:00:00,2019-05-07 04:00:00,Onsite,10
+236,(WellCare) Lean Six Sigma Green Belt Certification (verified on 7/22/19),2019-04-02 04:00:00,2019-06-27 04:00:00,Onsite,28
+504,(WellCare) Business Analysis,2020-01-14 05:00:00,2020-04-02 04:00:00,Onsite,29
+505,(Amazon) Lean Six Sigma Green Belt Certification,2020-04-01 04:00:00,2020-06-10 04:00:00,Onsite,0
+506,(Amazon) Lean Six Sigma Black Belt Certification,2020-04-01 04:00:00,2020-06-10 04:00:00,Onsite,0
+38,SHRM Certified Professional/Senior Certified Professional (verified on 5/15/19),2019-01-31 05:00:00,2019-05-02 04:00:00,StPete,9
+86,HR Law (verified on 5/8/19),2019-04-11 04:00:00,2019-05-02 04:00:00,StPeteDAV250,5
+149,Effective Project Management (verified on 5/29/19),2019-05-11 04:00:00,2019-05-25 04:00:00,StPeteDAV250,7
+29,Lean Six Sigma Green Belt Certification (verified 6/24/19),2019-03-16 04:00:00,2019-06-22 04:00:00,StPeteHBR131,9
+159,Leading and Influencing Projects (cancelled on 8/8/19),2019-08-10 04:00:00,2019-08-24 04:00:00,StPeteHBR144,0
+135,Talent Acquisition and Retaining Top Talent (verified on 5/28/19),2019-05-01 04:00:00,2019-05-22 04:00:00,StPeteHBR145,3
+66,Project Risk Management (verified on 5/5/19),2019-04-27 04:00:00,2019-05-04 04:00:00,StPeteHBR145,6
+80,Compensation Design and Administration (verified on 5/21/19),2019-04-29 04:00:00,2019-05-20 04:00:00,StPeteHBR145,4
+82,Employee Relations and Equal Employment Opportunity (verified on 4/24/19),2019-04-01 04:00:00,2019-04-22 04:00:00,StPeteHBR145,5
+306,SAT Blitz On-Campus,2019-11-02 04:00:00,2019-11-23 05:00:00,StPeteLPH127,8
+298,SHRM Essentials of Human Resources (verified on 10/10/19),2019-09-24 04:00:00,2019-10-03 04:00:00,StPeteLPH213,2
+308,GMAT Test Preparation On-Campus,2019-10-23 04:00:00,2019-11-18 05:00:00,StPeteLPH213,5
+71,Effective Business Analysis (verified on 6/26/19),2019-06-15 04:00:00,2019-06-22 04:00:00,StPeteLPH213,4
+89,LSAT Test Preparation On-Campus (verified on 8/7/19),2019-06-03 04:00:00,2019-07-10 04:00:00,StPeteLPH213,4
+163,Project Risk Management (cancelled on 10/16/19),2019-10-19 04:00:00,2019-10-26 04:00:00,StPeteLPH213,0
+264,GMAT Test Preparation On-Campus (cancelled on 6/26/19),2019-07-11 04:00:00,2019-08-06 04:00:00,StPeteLPH213,0
+273,"Recruitment, Selection and Placement (verified on 12/12/19)",2019-12-02 05:00:00,2019-12-11 05:00:00,StPeteLPH213,6
+274,HR Law (verified on 10/21/19),2019-10-07 04:00:00,2019-10-16 04:00:00,StPeteLPH213,8
+94,PMP® Exam Preparation (verified on 7/29/19),2019-06-29 04:00:00,2019-07-27 04:00:00,StPeteLPH214,10
+99,SAT Summer Institute On-Campus (verified on 8/2/19),2019-07-29 04:00:00,2019-08-01 04:00:00,StPeteLPH214,14
+295,PMP® Exam Preparation (verified on 10/10/19),2019-09-07 04:00:00,2019-10-05 04:00:00,StPeteLPH214,10
+301,Lean Six Sigma Green Belt Certification,2019-10-12 04:00:00,2019-12-07 05:00:00,StPeteLPH214,4
+466,PMP® Exam Preparation,2020-02-22 05:00:00,2020-03-21 04:00:00,StPeteLPH214,4
+305,SAT Blitz On-Campus,2019-10-05 04:00:00,2019-10-26 04:00:00,StPeteLPH222,3
+386,SAT Blitz On-Campus (verified on 3/10/20),2020-02-15 05:00:00,2020-03-07 05:00:00,StPeteLPH222,3
+388,SAT Blitz On-Campus (cancelled on 3/9/20),2020-03-28 04:00:00,2020-04-25 04:00:00,StPeteLPH222,0
+161,Monitoring and Controlling Projects (verified on 9/23/19),2019-09-07 04:00:00,2019-09-21 04:00:00,StPeteLPH222,4
+148,Effective Business Analysis (cancelled on 11/14/19),2019-11-16 05:00:00,2019-11-23 05:00:00,StPeteLPH222,0
+170,SHRM Certified Professional/Senior Certified Professional (verified on 3/10/20),2019-09-05 04:00:00,2019-12-05 05:00:00,StPeteLPH222,13
+98,SAT Summer Institute On-Campus (verified on 7/22/19),2019-07-15 04:00:00,2019-07-18 04:00:00,StPeteLPH327,12
+407,SHRM Essentials of Human Resources,2020-03-17 04:00:00,2020-03-26 04:00:00,StPetePRW123,5
+382,LSAT Test Preparation On-Campus,2020-03-24 04:00:00,2020-04-23 04:00:00,StPeteSTG110,8
+226,LSAT Test Preparation On-Campus (cancelled on 9/10/19),2019-09-18 04:00:00,2019-10-21 04:00:00,StPeteSTG111,0
+276,Employee Relations and Equal Employment Opportunity (verified on 11/21/19),2019-11-04 05:00:00,2019-11-20 05:00:00,StPeteSTG111,8
+275,Compensation Design and Administration (verified on 10/31/19),2019-10-21 04:00:00,2019-10-30 04:00:00,StPeteSTG112,6
+272,Human Resource Management Introduction (verified 9/19/19),2019-09-09 04:00:00,2019-09-18 04:00:00,StPeteSTG112,9
+441,SHRM Certified Professional/Senior Certified Professional,2020-01-30 05:00:00,2020-04-30 04:00:00,StPeteSTG114,6
+383,GRE Test Preparation On-Campus,2020-02-12 05:00:00,2020-03-09 04:00:00,StPeteSTG124,0
+446,Human Resource Management Introduction (verified 3/10/20),2020-02-03 05:00:00,2020-02-12 05:00:00,StPeteSTG124,7
+447,HR Law (verified on 3/10/20),2020-02-17 05:00:00,2020-02-26 05:00:00,StPeteSTG124,8
+448,Compensation Design and Administration,2020-03-02 05:00:00,2020-03-11 04:00:00,StPeteSTG124,7
+449,Employee Relations and Equal Employment Opportunity,2020-03-16 04:00:00,2020-03-25 04:00:00,StPeteSTG124,1
+450,Employee Benefits Planning,2020-04-06 04:00:00,2020-04-15 04:00:00,StPeteTBA,1
+451,Risk Management for HR Professionals,2020-04-20 04:00:00,2020-04-29 04:00:00,StPeteTBA,1
+452,HR Planning and Development,2020-05-04 04:00:00,2020-05-13 04:00:00,StPeteTBA,1
+453,"Recruitment, Selection and Placement",2020-05-05 04:00:00,2020-05-14 04:00:00,StPeteTBA,0
+454,"HR Performance Management, Retention, and Turnover ",2020-06-01 04:00:00,2020-06-10 04:00:00,StPeteTBA,1
+455,Performance Appraisal Systems,2020-06-02 04:00:00,2020-06-11 04:00:00,StPeteTBA,0
+456,Business Skills for HR Professionals (cancelled on 2/27/20),2020-06-15 04:00:00,2020-06-24 04:00:00,StPeteTBA,0
+364,Process Improvement in Healthcare (cancelled on 10/7/19),2019-10-22 04:00:00,2019-12-03 05:00:00,StPeteTBA,0
+467,SAT Summer Institute On-Campus,2020-06-01 04:00:00,2020-06-04 04:00:00,StPeteTBA,0
+436,Process Improvement in Healthcare,2020-01-30 05:00:00,2020-02-20 05:00:00,StPeteTBA,0
+437,Essential Skills for Today's Nurse Leaders,2020-03-10 04:00:00,2020-03-19 04:00:00,StPeteTBA,0
+438,Project Management for Healthcare,2020-02-25 05:00:00,2020-03-05 05:00:00,StPeteTBA,0
+473,GRE Test Preparation On-Campus,2020-07-09 04:00:00,2020-08-04 04:00:00,StPeteTBA,0
+471,ACT Summer Institute,2020-06-08 04:00:00,2020-06-11 04:00:00,StPeteTBA,0
+477,SAT Summer Institute On-Campus,2020-07-20 04:00:00,2020-07-23 04:00:00,StPeteTBA,0
+479,SAT Summer Institute On-Campus,2020-08-03 04:00:00,2020-08-06 04:00:00,StPeteTBA,1
+494,Lean Six Sigma Green Belt Certification,2020-03-28 04:00:00,2020-06-06 04:00:00,StPeteTBA,2
+513,SHRM Certified Professional/Senior Certified Professional,2020-09-03 04:00:00,2020-12-03 05:00:00,StPeteTBA,0
+515,Excelling in Business as an HR Professional,2020-06-15 04:00:00,2020-06-24 04:00:00,StPeteTBA,1
+518,LSAT Test Preparation On-Campus,2020-05-05 04:00:00,2020-06-04 04:00:00,StPeteTBA,0
+520,LSAT Test Preparation On-Campus,2020-06-02 04:00:00,2020-07-07 04:00:00,StPeteTBA,0
+101,SHRM Essentials of Human Resources (verified on 4/17/19),2019-04-16 04:00:00,2019-04-17 04:00:00,StPeteTBD,8
+95,Presenting Powerfully for Engagement and Impact (verified on 4/16/19),2019-04-09 04:00:00,2019-04-11 04:00:00,StPeteTBD,2
+88,LSAT Test Preparation On-Campus (cancelled on 4/9/2019),2019-04-17 04:00:00,2019-05-29 04:00:00,StPeteTBD,0
+42,SHRM Certified Professional/Senior Certified Professional (verified on 5/15/19),2019-02-05 05:00:00,2019-05-07 04:00:00,Tampa,19
+372,"HR Performance Management, Retention, and Turnover (verified on 12/2/19)",2019-11-13 05:00:00,2019-11-25 05:00:00,Tampa200A,4
+144,SAT Summer Institute On-Campus (verified on 7/3/19),2019-06-24 04:00:00,2019-06-27 04:00:00,TampaCIS2084,11
+146,SAT Summer Institute On-Campus (verified on 8/12/19),2019-08-05 04:00:00,2019-08-08 04:00:00,TampaEDU214,30
+493,SHRM Certified Professional/Senior Certified Professional Intensive,2020-04-10 04:00:00,2020-04-24 04:00:00,TampaEDU258,2
+138,ACT Summer Institute (verified on 7/16/19),2019-07-08 04:00:00,2019-07-11 04:00:00,TampaEDU317,8
+266,SHRM Certified Professional/Senior Certified Professional Intensive (verified on 11/18/19),2019-11-01 04:00:00,2019-11-15 05:00:00,TampaEDU347,5
+63,SHRM Certified Professional/Senior Certified Professional Intensive (verified on 4/30/19),2019-04-12 04:00:00,2019-04-26 04:00:00,TampaLIB618A,17
+379,Situational Leadership for Executives (verified on 3/10/20),2020-01-10 05:00:00,2020-02-07 05:00:00,TampaLIB618A,12
+507,Corporate Leadership,2020-04-10 04:00:00,2020-05-08 04:00:00,TampaLIB618A,0
+435,Performance Appraisal Systems (cancelled on 2/6/20),2020-02-11 05:00:00,2020-02-20 05:00:00,TampaMHA126D,0
+145,SAT Summer Institute On-Campus (verified 8/7/19),2019-07-22 04:00:00,2019-07-25 04:00:00,TampaMHA126E,19
+250,USF 5G Power Skills Certification (verified on 6/25/19),2019-06-19 04:00:00,2019-06-21 04:00:00,TampaMSC3704,11
+278,(CAE) Change Management Using Agile Methodologies (verified on 6/27/19),2019-06-21 12:00:00,2019-06-21 21:00:00,TampaMSC3705,8
+279,(CAE) Effective Communication for Today's Leaders (verified on 6/25/19),2019-06-18 12:00:00,2019-06-18 21:00:00,TampaMSC3705,8
+280,(CAE) Creating an Engaged Workforce (verified on 6/27/19),2019-06-19 12:00:00,2019-06-19 21:00:00,TampaMSC3705,8
+281,(CAE) Leading with Emotional Intelligence (verified on 6/25/19),2019-06-17 12:00:00,2019-06-17 21:00:00,TampaMSC3705,8
+282,(CAE) Presenting Powerfully (verified on 6/25/19),2019-06-20 12:00:00,2019-06-20 21:00:00,TampaMSC3705,8
+178,Developing Resilience to Combat Adversity (verified on 5/15/19),2019-05-06 04:00:00,2019-05-08 04:00:00,TampaNEC107,7
+136,Lean Six Sigma Green Belt Certification,2019-04-13 04:00:00,2019-08-10 04:00:00,TampaNEC107,7
+434,Maximize Your HR Communication Effectiveness (verified on 3/10/20),2020-02-22 05:00:00,2020-02-29 05:00:00,TampaNEC107,5
+409,Risk Management for HR Professionals (cancelled on 1/10/20),2020-01-14 05:00:00,2020-01-23 05:00:00,TampaNEC200A,0
+410,Employee Benefits Planning (verified on 3/10/20),2020-01-28 05:00:00,2020-02-06 05:00:00,TampaNEC200A,2
+373,Effective Project Management (cancelled on 2/10/20),2020-02-22 05:00:00,2020-03-07 05:00:00,TampaNEC200A,0
+374,Leading and Influencing Projects,2020-03-14 04:00:00,2020-03-28 04:00:00,TampaNEC200A,2
+375,Effective Business Analysis,2020-04-04 04:00:00,2020-04-11 04:00:00,TampaNEC200A,0
+376,Project Risk Management,2020-04-18 04:00:00,2020-04-25 04:00:00,TampaNEC200A,0
+377,Monitoring and Controlling Projects,2020-05-02 04:00:00,2020-05-16 04:00:00,TampaNEC200A,0
+371,PMP® Exam Preparation (verified on 2/15/20),2020-01-18 05:00:00,2020-02-15 05:00:00,TampaNEC200A,20
+384,GRE Test Preparation On-Campus,2020-02-13 05:00:00,2020-03-10 04:00:00,TampaNEC200A,10
+302,GRE Test Preparation On-Campus,2019-10-02 04:00:00,2019-10-28 04:00:00,TampaNEC200A,11
+137,SHRM Essentials of Human Resources (cancelled on 4/25/19),2019-05-01 04:00:00,2019-05-22 04:00:00,TampaNEC200A,0
+139,GMAT Test Preparation On-Campus (verified on 8/7/19),2019-06-04 04:00:00,2019-06-27 04:00:00,TampaNEC200A,7
+140,GRE Test Preparation On-Campus (verified on 6/25/19),2019-05-29 04:00:00,2019-06-24 04:00:00,TampaNEC200A,19
+133,Effective Business Analysis (verified on 7/1/19),2019-06-22 04:00:00,2019-06-29 04:00:00,TampaNEC200A,8
+162,Project Risk Management (verified on 8/26/19),2019-08-17 04:00:00,2019-08-24 04:00:00,TampaNEC200A,5
+160,Monitoring and Controlling Projects (verified on 7/29/19),2019-07-13 04:00:00,2019-07-27 04:00:00,TampaNEC200A,9
+47,GMAT Test Preparation On-Campus (verified on 4/24/19),2019-03-28 04:00:00,2019-04-23 04:00:00,TampaNEC200A,8
+58,GRE Test Preparation On-Campus (verified on 4/30/19),2019-03-27 04:00:00,2019-04-22 04:00:00,TampaNEC200A,17
+69,Leading and Influencing Projects (verified on 6/25/19),2019-06-01 04:00:00,2019-06-15 04:00:00,TampaNEC200A,6
+223,Compensation Design and Administration (verified 7/30/19),2019-07-08 04:00:00,2019-07-29 04:00:00,TampaNEC200A,17
+224,SAT Blitz On-Campus (verified on 10/4/19),2019-09-07 04:00:00,2019-09-28 04:00:00,TampaNEC200A,21
+227,GMAT Test Preparation On-Campus,2019-09-19 04:00:00,2019-10-15 04:00:00,TampaNEC200A,7
+258,PMP® Exam Preparation (verified on 11/18/19),2019-10-19 04:00:00,2019-11-16 05:00:00,TampaNEC200A,9
+265,Lean Six Sigma Green Belt Certification,2019-08-10 04:00:00,2019-10-05 04:00:00,TampaNEC200B,18
+287,Performance Appraisal Systems (verified on 10/18/19),2019-10-08 04:00:00,2019-10-17 04:00:00,TampaNEC200B,8
+288,Risk Management for HR Professionals (verified on 9/25/19),2019-09-10 04:00:00,2019-09-19 04:00:00,TampaNEC200B,5
+284,Employee Benefits Planning (verified on 10/10/19),2019-09-24 04:00:00,2019-10-03 04:00:00,TampaNEC200B,9
+220,Maximize Your HR Communication Effectiveness (verified on 7/22/19),2019-07-13 04:00:00,2019-07-20 04:00:00,TampaNEC200B,6
+221,HR Law (verified on 6/12/19),2019-05-16 04:00:00,2019-06-06 04:00:00,TampaNEC200B,19
+222,"Recruitment, Selection and Placement (verified 7/16/19)",2019-06-13 04:00:00,2019-07-11 04:00:00,TampaNEC200B,18
+59,SAT Blitz On-Campus (verified 4/29/19),2019-03-30 04:00:00,2019-04-27 04:00:00,TampaNEC200B,9
+60,Compensation Design and Administration (verified on 4/26/19),2019-04-01 04:00:00,2019-04-22 04:00:00,TampaNEC200B,8
+62,Risk Management for HR Professionals (verified on 4/26/19),2019-04-04 04:00:00,2019-04-25 04:00:00,TampaNEC200B,6
+130,Leading with Emotional Intelligence (verified on 5/3/19),2019-04-30 04:00:00,2019-05-02 04:00:00,TampaNEC200B,2
+97,SAT Blitz On-Campus (verified on 5/19/19),2019-04-27 04:00:00,2019-05-18 04:00:00,TampaNEC200B,4
+293,Running a Global PMO (cancelled on 10/4/19),2019-10-07 04:00:00,2019-10-16 04:00:00,TampaNEC200B,0
+361,Lean Six Sigma Green Belt Certification,2020-01-18 05:00:00,2020-03-21 04:00:00,TampaNEC200B,17
+366,Business Skills for HR Professionals (cancelled on 1/28/20),2020-02-04 05:00:00,2020-02-13 05:00:00,TampaNEC200B,0
+418,"HR Performance Management, Retention, and Turnover  (cancelled on 1/28/20)",2020-03-25 04:00:00,2020-04-08 04:00:00,TampaNEC200B,0
+420,Performance Appraisal Systems,2020-05-05 04:00:00,2020-05-14 04:00:00,TampaNEC200B,1
+422,Employee Benefits Planning,2020-04-21 04:00:00,2020-04-30 04:00:00,TampaNEC200B,1
+423,Risk Management for HR Professionals,2020-04-07 04:00:00,2020-04-16 04:00:00,TampaNEC200B,2
+412,PMP® Exam Preparation,2020-04-04 04:00:00,2020-05-09 04:00:00,TampaNEC200B,4
+500,Business Skills for HR Professionals (cancelled on 2/27/20),2020-06-01 04:00:00,2020-06-10 04:00:00,TampaNEC200B,0
+498,Lean Six Sigma Green Belt Certification,2020-07-11 04:00:00,2020-09-19 04:00:00,TampaNEC200B,0
+516,Excelling in Business as an HR Professional,2020-06-01 04:00:00,2020-06-10 04:00:00,TampaNEC200B,1
+514,SHRM Certified Professional/Senior Certified Professional,2020-09-01 04:00:00,2020-12-01 05:00:00,TampaNEC300,0
+413,Lean Six Sigma Black Belt Certification,2020-03-28 04:00:00,2020-05-09 04:00:00,TampaNEC300,6
+414,Human Resource Management Introduction (verified on 3/10/20),2020-02-17 05:00:00,2020-02-26 05:00:00,TampaNEC300,4
+415,"Recruitment, Selection and Placement (cancelled on 3/2/20)",2020-03-02 05:00:00,2020-03-11 04:00:00,TampaNEC300,0
+416,HR Law,2020-03-16 04:00:00,2020-03-25 04:00:00,TampaNEC300,4
+417,Employee Relations and Equal Employment Opportunity,2020-04-13 04:00:00,2020-04-22 04:00:00,TampaNEC300,1
+408,HR Planning and Development (cancelled on 1/10/20),2020-01-14 05:00:00,2020-01-23 05:00:00,TampaNEC300,0
+421,HR Planning and Development,2020-05-19 04:00:00,2020-05-28 04:00:00,TampaNEC300,0
+419,Compensation Design and Administration,2020-03-30 04:00:00,2020-04-08 04:00:00,TampaNEC300,1
+402,SHRM Certified Professional/Senior Certified Professional,2020-02-04 05:00:00,2020-05-05 04:00:00,TampaNEC300,21
+356,Human Resource Management Introduction (verified on 11/1/19),2019-10-21 04:00:00,2019-10-30 04:00:00,TampaNEC300,8
+357,"Recruitment, Selection and Placement (verified on 12/3/19)",2019-11-04 05:00:00,2019-11-20 05:00:00,TampaNEC300,10
+358,HR Law (verified on 12/12/19),2019-12-02 05:00:00,2019-12-11 05:00:00,TampaNEC300,11
+359,Compensation Design and Administration,2020-01-13 05:00:00,2020-01-27 05:00:00,TampaNEC300,10
+360,Employee Relations and Equal Employment Opportunity (verified on 3/10/20),2020-02-03 05:00:00,2020-02-12 05:00:00,TampaNEC300,8
+328,SHRM Essentials of Human Resources (verified on 3/10/20),2020-02-01 05:00:00,2020-02-08 05:00:00,TampaNEC300,8
+103,Lean Six Sigma Black Belt Training,2019-05-18 04:00:00,2019-09-28 04:00:00,TampaNEC300,11
+172,Human Resource Management Introduction (verified on 5/21/19),2019-04-29 04:00:00,2019-05-20 04:00:00,TampaNEC300,24
+173,Employee Relations and Equal Employment Opportunity (verified on 6/27/19),2019-06-04 04:00:00,2019-06-25 04:00:00,TampaNEC300,24
+228,HR Planning and Development (verified on 8/28/19),2019-08-06 04:00:00,2019-08-27 04:00:00,TampaNEC300,7
+231,Lean Six Sigma Green Belt Certification,2019-01-12 05:00:00,2019-05-04 04:00:00,TampaNEC300,12
+169,SHRM Certified Professional/Senior Certified Professional,2019-09-10 04:00:00,2019-12-12 05:00:00,TampaNEC300,22
+285,HR Planning and Development (cancelled on 10/10/19),2019-10-12 04:00:00,2019-10-19 04:00:00,TampaNEC300,0
+286,Maximize Your HR Communication Effectiveness (cancelled on 11/1/19),2019-11-02 04:00:00,2019-11-09 05:00:00,TampaNEC300,0
+267,Compensation Design and Administration (verified on 10/4/19),2019-09-23 04:00:00,2019-10-02 04:00:00,TampaNEC300,9
+268,HR Law (verified on 9/19/19),2019-09-09 04:00:00,2019-09-18 04:00:00,TampaNEC300,11
+269,Employee Relations and Equal Employment Opportunity (verified on 10/17/19),2019-10-07 04:00:00,2019-10-16 04:00:00,TampaNEC300,13
+270,Human Resource Management Introduction (verified on 8/15/19),2019-08-05 04:00:00,2019-08-14 04:00:00,TampaNEC300,13
+271,"Recruitment, Selection and Placement (verified on 9/5/19)",2019-08-19 04:00:00,2019-08-28 04:00:00,TampaNEC300,11
+257,Effective Project Management (verified on 9/25/19),2019-09-07 04:00:00,2019-09-21 04:00:00,TampaNEC300,11
+259,Leading and Influencing Projects (verified on 10/14/19),2019-09-28 04:00:00,2019-10-12 04:00:00,TampaNEC320,11
+260,Effective Business Analysis (verified on 10/29/19),2019-10-19 04:00:00,2019-10-26 04:00:00,TampaNEC320,8
+261,Project Risk Management (verified on 11/12/19),2019-11-02 04:00:00,2019-11-09 05:00:00,TampaNEC320,8
+262,Monitoring and Controlling Projects (verified on 12/12/19),2019-11-16 05:00:00,2019-12-07 05:00:00,TampaNEC320,7
+225,LSAT Test Preparation On-Campus,2019-08-15 04:00:00,2019-09-17 04:00:00,TampaNEC320,14
+142,LSAT Test Preparation On-Campus (verified on 5/31/19),2019-04-18 04:00:00,2019-05-28 04:00:00,TampaNEC320,6
+143,LSAT Test Preparation On-Campus (verified on 8/7/19),2019-06-04 04:00:00,2019-07-11 04:00:00,TampaNEC320,16
+64,PMP® Exam Preparation (verified on 5/20/19),2019-04-13 04:00:00,2019-05-18 04:00:00,TampaNEC320,10
+303,GRE Test Preparation On-Campus,2019-11-06 05:00:00,2019-12-04 05:00:00,TampaNEC320,8
+307,LSAT Test Preparation On-Campus,2019-10-17 04:00:00,2019-11-21 05:00:00,TampaNEC320,6
+389,GRE Test Preparation On-Campus,2020-04-01 04:00:00,2020-04-27 04:00:00,TampaNEC320,3
+390,GMAT Test Preparation On-Campus,2020-04-02 04:00:00,2020-04-28 04:00:00,TampaNEC320,3
+381,LSAT Test Preparation On-Campus,2020-01-16 05:00:00,2020-02-18 05:00:00,TampaNEC320,8
+503,Business Analysis,2020-04-18 04:00:00,2020-05-23 04:00:00,TampaNEC320,1
+469,GMAT Test Preparation On-Campus,2020-06-03 04:00:00,2020-06-29 04:00:00,TampaNEC320,0
+470,GRE Test Preparation On-Campus,2020-06-04 04:00:00,2020-06-30 04:00:00,TampaNEC320,0
+517,LSAT Test Preparation On-Campus,2020-04-29 04:00:00,2020-06-03 04:00:00,TampaNEC320,0
+483,Paralegal Certificate,2020-05-12 04:00:00,2020-08-06 04:00:00,TampaNEC328,1
+509,SHRM Essentials of Human Resources,2020-05-09 04:00:00,2020-05-16 04:00:00,TampaNEC328,1
+387,SAT Blitz On-Campus,2020-03-28 04:00:00,2020-04-25 04:00:00,TampaNEC328,3
+385,SAT Blitz On-Campus,2020-02-15 05:00:00,2020-03-07 05:00:00,TampaNEC328,27
+304,SAT Blitz On-Campus,2019-10-05 04:00:00,2019-10-26 04:00:00,TampaNEC328,16
+342,Paralegal Certificate,2020-01-21 05:00:00,2020-04-16 04:00:00,TampaNEC328,18
+31,Paralegal Certificate (verified on 6/12/19),2019-01-15 05:00:00,2019-05-14 04:00:00,TampaNEC328,15
+141,GRE Test Preparation On-Campus (verified on 8/19/19),2019-07-13 04:00:00,2019-08-17 04:00:00,TampaNEC328,22
+168,Paralegal Certificate,2019-05-28 04:00:00,2019-08-15 04:00:00,TampaNEC328,7
+277,Paralegal Certificate,2019-08-27 04:00:00,2019-11-21 05:00:00,TampaNEC328,15
+480,SAT Summer Institute On-Campus,2020-08-10 04:00:00,2020-08-13 04:00:00,TampaTBA,0
+478,SAT Summer Institute On-Campus,2020-07-27 04:00:00,2020-07-30 04:00:00,TampaTBA,3
+472,SAT Summer Institute On-Campus,2020-06-22 04:00:00,2020-06-25 04:00:00,TampaTBA,2
+476,ACT Summer Institute,2020-07-13 04:00:00,2020-07-16 04:00:00,TampaTBA,1
+468,SAT Summer Institute On-Campus,2020-06-01 04:00:00,2020-06-04 04:00:00,TampaTBA,2
+519,LSAT Test Preparation On-Campus,2020-06-08 04:00:00,2020-07-08 04:00:00,TampaTBA,0
+177,Communicating for Effectiveness with Colleagues and Customers at All Levels (cancelled on 4/16/2019),2019-04-22 04:00:00,2019-04-24 04:00:00,TampaTBD,0
